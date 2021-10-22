@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: lightGrey;
+  padding: 30px;
+  height: 1000px;
+}
